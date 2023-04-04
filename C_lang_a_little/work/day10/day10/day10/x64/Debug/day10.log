@@ -1,0 +1,10 @@
+﻿  work.c
+D:\C_1900_Sms\work\day10\day10\day10\work.c(63,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
+D:\C_1900_Sms\work\day10\day10\day10\work.c(63,10): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 3과(와) 충돌합니다.
+D:\C_1900_Sms\work\day10\day10\day10\work.c(40,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C_1900_Sms\work\day10\day10\day10\work.c(42,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C_1900_Sms\work\day10\day10\day10\work.c(44,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C_1900_Sms\work\day10\day10\day10\work.c(52,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C_1900_Sms\work\day10\day10\day10\work.c(54,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C_1900_Sms\work\day10\day10\day10\work.c(56,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  day10.vcxproj -> D:\C_1900_Sms\work\day10\day10\x64\Debug\day10.exe

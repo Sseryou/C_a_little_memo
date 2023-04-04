@@ -1,0 +1,6 @@
+﻿  첫번째소스.c
+D:\C_1900_Sms\remindfile\day01\day01\첫번째소스.c(14,8): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\C_1900_Sms\remindfile\day01\day01\첫번째소스.c(30,8): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\C_1900_Sms\remindfile\day01\day01\첫번째소스.c(31,8): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  LINK : D:\C_1900_Sms\remindfile\day01\x64\Debug\day01.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  day01.vcxproj -> D:\C_1900_Sms\remindfile\day01\x64\Debug\day01.exe

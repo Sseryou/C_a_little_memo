@@ -1,0 +1,5 @@
+﻿  첫번째소스.c
+D:\C_1900_Sms\work\day01\day01\첫번째소스.c(30,11): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\C_1900_Sms\work\day01\day01\첫번째소스.c(33,10): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\C_1900_Sms\work\day01\day01\첫번째소스.c(16,8): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  day01.vcxproj -> D:\C_1900_Sms\work\day01\x64\Debug\day01.exe
